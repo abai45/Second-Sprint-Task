@@ -410,12 +410,12 @@ input[type="text"] {
     color: #9c9c9c;
 }
 .headerPanel .search input {
-    color: #fff;
+    color: #333;
     height: 30px;
     width: 100%;
     font-size: 17px;
     padding-left: 45px; 
-    border: 1px solid #ccc;
+    border: 1px solid #ffffff;
     border-radius: 3px;
     outline: none;
 }
